@@ -12,3 +12,4 @@ Common examples are matrix product states ([[MPS]]) and Projected Entangled Pair
 -  Román Orús; A practical introduction to tensor networks: Matrix product states and projected entangled pair states; (2014); [10.1016/j.aop.2014.06.013](https://www.doi.org/10.1016/j.aop.2014.06.013);  @orus_practical_2014 
 -  M. Fannes, B. Nachtergaele, R. F. Werner,; Finitely correlated states on quantum spin chains; (1992); [10.1007/BF02099178](https://www.doi.org/10.1007/BF02099178);  @fannes_finitely_1992 
 
+	
