@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="25.34654mm"
+   height="11.637476mm"
+   viewBox="0 0 25.34654 11.637476"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (1:1.3+202307231459+0e150ed6c4)"
+   sodipodi:docname="mpsnotation_vector.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.158974"
+     inkscape:cx="48.275168"
+     inkscape:cy="55.081175"
+     inkscape:window-width="1848"
+     inkscape:window-height="1136"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-45.346347,-33.6365)">
+    <rect
+       style="fill:#ffffff;stroke-width:1;stroke-miterlimit:3"
+       id="rect2"
+       width="25.34654"
+       height="11.637476"
+       x="45.346348"
+       y="33.636501" />
+    <rect
+       style="fill:#ffffff;stroke-width:1;stroke-miterlimit:3"
+       id="rect1"
+       width="7.2385306"
+       height="0"
+       x="45.346348"
+       y="33.636501"
+       ry="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+       d="M 56.454655,39.455238 H 70.692887"
+       id="path2" />
+    <circle
+       style="fill:#3737c8;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-miterlimit:3"
+       id="path1"
+       cx="51.165085"
+       cy="39.455238"
+       r="5.818738" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="11.382096"
+       y="38.435699"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.264583"
+         x="11.382096"
+         y="38.435699" /></text>
+  </g>
+</svg>
