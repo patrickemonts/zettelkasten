@@ -1,4 +1,4 @@
-#physics #method
+#physics #method #tensornetworks 
 
 Tensor Networks are a structured ansatz for wave functions that consists of tensors and connections between them. The structure of the ansatz influences expressibilty and computational efficiency.
 Usually, the ansatz is formulated in a [[Graphical Notation Tensor Networks | graphical notation]].
