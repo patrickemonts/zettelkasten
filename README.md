@@ -2,7 +2,7 @@
 
 The German word Zettelkasten literally translates to "box of notes".
 The idea is to build an interconnected database of notes that serves as a knowledge base.
-The concept is rather old already (check ![here](https://en.wikipedia.org/wiki/Zettelkasten)). An especially famous example of a Zettelkasten is the collection by the sociologist ![Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann).
+The concept is rather old already (check [here](https://en.wikipedia.org/wiki/Zettelkasten)). An especially famous example of a Zettelkasten is the collection by the sociologist [Niklas Luhmann](https://en.wikipedia.org/wiki/Niklas_Luhmann).
 
 # Concept
 A Zettelkasten is a collection of short notes that explain concepts. This Zettelkasten is focused on, but not strictly limited to, quantum physiscs and adjacent fields.
@@ -24,7 +24,7 @@ A Zettelkasten only works if notes are linked together such that other people ma
 As areas in the Zettelkasten grow, it might be worth to reorganize notes. This might result in splitting notes up, merging notes or creating summary notes to make other notes easier to reach.
 
 # Tools
-This Zettelkasten is based on ![Obsidian](https://obsidian.md) and ![git](https://www.git-scm.com).
+This Zettelkasten is based on [Obsidian](https://obsidian.md) and [git](https://www.git-scm.com).
 Obisidan displays markdown notes, manages links between the notes and the tag network. 
 It is the main tool to edit, add and manage notes.
 
