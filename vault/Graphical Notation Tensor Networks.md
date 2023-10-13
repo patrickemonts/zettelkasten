@@ -9,7 +9,7 @@ A tensor of rank $d$ is given by a bubble and $d$ legs. Connected legs are contr
 - Tensor (rank 3) ![[mpsnotation_tensor.svg]]
 - Matrix-Matrix product $C_{ij}=\sum_k A_{ik} B_{kj}$ ![[mpsnotation_matrix_matrix_product.svg]]
 # Links
-- [[MPS]]
+- [[Matrix Product States (MPS)]]
 - [[Projected Entangled Pair States (PEPS)]]
 - [[Tensor Networks]]
 - [[Variational Methods]]
