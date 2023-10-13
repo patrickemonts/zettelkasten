@@ -7,4 +7,4 @@ A neural network is a computational model inspired by the structure and function
 - 
 
 # References
-- Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep Learning. Cambridge, MA: MIT Press, 2016.
+- Goodfellow, Ian, Yoshua Bengio, and Aaron Courville. Deep Learning. Cambridge, MA: MIT Press, 2016. 
