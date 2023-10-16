@@ -10,7 +10,7 @@ Key property: this ansatz is problem-dependent, as the description of the proble
 ## Quantum Alternating Operator Approach
 The second acronym indicates a variational algorithm which uses this ansatz, typically applied to solving classical optimization problems (classical Ising, MAXCUT).
 # Links
-- 
+- [[Variational Quantum Eigensolver (VQE)]]
 
 # References
 -  Edward Farhi, Jeffrey Goldstone, Sam Gutmann,; A Quantum Approximate Optimization Algorithm; (2014); [10.48550/arXiv.1411.4028](https://www.doi.org/10.48550/arXiv.1411.4028);  @farhi_quantum_2014
