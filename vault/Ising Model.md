@@ -2,7 +2,7 @@
 
 The (classial) Ising model is a model for magnetism. Its Hamiltonian is given by
 $$ H= J\sum_{\langle i,j\rangle} \sigma^z_i \sigma^z_j,$$
-where $\sigma_i^z$ is the $z$ [[Pauli Operators|Pauli matrix]], $J$ is the coupling constant and the sum runs over nearest neighbors. For $J>0$ the model describes anti-ferromagnetism, for $J<0$ the ferromagnetic.
+where $\sigma_i^z$ is the $z$ [[Pauli Matrices|Pauli matrix]], $J$ is the coupling constant and the sum runs over nearest neighbors. For $J>0$ the model describes anti-ferromagnetism, for $J<0$ the ferromagnetic.
 
 
 ## 1 space dimension (line)
