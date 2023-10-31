@@ -18,5 +18,7 @@ Common examples are [[Matrix Product States (MPS)]] and[[Projected Entangled Pai
 	-  Jacob C. Bridgeman, Christopher T. Chubb,; Hand-waving and Interpretive Dance: An Introductory Course on Tensor Networks; (2017); [10.1088/1751-8121/aa6dc3](https://www.doi.org/10.1088/1751-8121/aa6dc3);  @bridgeman_hand-waving_2017 
 - Early papers
 	-  M. Fannes, B. Nachtergaele, R. F. Werner,; Finitely correlated states on quantum spin chains; (1992); [10.1007/BF02099178](https://www.doi.org/10.1007/BF02099178);  @fannes_finitely_1992 
+	-  Stellan Östlund, Stefan Rommer,; Thermodynamic Limit of Density Matrix Renormalization; (1995); [10.1103/PhysRevLett.75.3537](https://www.doi.org/10.1103/PhysRevLett.75.3537);  @ostlund_thermodynamic_1995 
+
 
 	
