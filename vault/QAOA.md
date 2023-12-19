@@ -1,6 +1,6 @@
 #quantum-information #method
 
-Double acronym: quantum approximate optimization ansatz, or quantum alternating operator ansatz. 
+Double acronym: quantum approximate optimization algorithm, or quantum alternating operator ansatz. 
 
 ## Quantum Approximate Optimization Ansatz
 The first indicates an ansatz derived by the discretization (through Trotter-Suzuki expansion) of the adiabatic state preparation algorithm. 
