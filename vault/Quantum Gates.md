@@ -12,7 +12,7 @@ Typical gates are
 - The $Z$ gate is a special case of the *phase* gate which rotates the $\ket{1}$ state by an angle $\phi$ $$R_\phi=\begin{pmatrix}1 & 0\\ 
 0 & e^{i\phi}\end{pmatrix}$$
 - $T$, a special case of $R_\phi$ with $\phi=\pi/4$.
-- Hadamard gate $H$ $$H=\frac{1}{\sqrt{2}}\begin{pmatrix}1 & 1\\ 1 & -1\end{pmatrix}$$
+- Hadamard gate $H$ $$H=\frac{1}{\sqrt{2}}\begin{pmatrix}1 & 1\\ 1 & -1\end{pmatrix}$$ ^efb8de
 ## Two Qubit Gates
 - Controlled NOT gate, flip the *target* qubit depending on the *control* qubit $$CNOT=\begin{pmatrix}1 & 0 & 0 & 0\\0 & 1 & 0 & 0\\0 & 0 & 0 & 1\\0 & 0 & 1 & 0\end{pmatrix}$$
 # Links
