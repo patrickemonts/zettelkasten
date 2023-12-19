@@ -34,12 +34,6 @@ $$
 \ket{-_Z} = \ket{1} = \begin{pmatrix}0 \\ 1 \end{pmatrix} \\
 \end{matrix}
 $$
-
-The Pauli group is defined as 
-$$
-\mathcal P = \{ \pm I , \pm i I, \pm X , \pm i X, \pm Y , \pm i Y, \pm Z , \pm i Z\}
-$$
-
 # Links
 - [[Clifford group]]
 
