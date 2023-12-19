@@ -7,7 +7,7 @@ The initial input bits are fed into AND, OR, and NOT gates according to the circ
 A circuit *computes* some Boolean function $$f: \{0,1\}^n\rightarrow\{0,1\}^m$$ if the output nodes get the right value $f(x)$ for every input $x\in\{0,1\}^n$.
 
 # Links
-- [[Quantum Computing Gates]]
+- [[Quantum Gates]]
 - [[Logic Gates]]
 - [[Directed Acyclic Graph]]
 
