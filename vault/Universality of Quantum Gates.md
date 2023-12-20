@@ -11,7 +11,7 @@ Since there are infinitely many 1-qubit gates, this statement is not very useful
    Any other unitary can be arbitrarily well approximated using circuits of only these gates.
 
 The [[Solovay-Kitaev theorem]] states that this approximation is quite efficient:
-Any 1- or 2-qubit gate can be approximated up to error $\epsilon$ using a number of gates (from our small set) that is only $\mathrm{polylog}(1/\epsilon)$. in particular, simulating arbitrary gates up to exponentially small error costs only a polynomial overhead.
+Any 1- or 2-qubit gate can be approximated up to error $\epsilon$ using a number of gates (from our small set) that is only $\mathrm{polylog}(1/\epsilon)$. in particular, simulating arbitrary gates up to exponentially small error costs only a polynomial overhead. Importantly, this theorem does not consider the hardness of finding the sequence gate to approximate such unitary, which scales exponentially in the number of qubits.
 
 It is possible to restrict to gates with real numbers and an even smaller set
 
