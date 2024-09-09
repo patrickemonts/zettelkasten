@@ -17,6 +17,7 @@ More generally, entanglement and nonlocality are inequivalent for any number of 
 As a result: **entanglement is a weaker property of quantum states than nonlocality.**
 # Links
 - [[Entanglement]]
+- [[Bell Nonlocality]]
 
 # References
 - 2 parties: Entanglement implies nonlocality

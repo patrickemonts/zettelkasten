@@ -5,7 +5,7 @@ Here, $A^i_{\alpha_1,\alpha_2}$ are $d\times D\times D$ tensors of rank 3 with a
 In analogy to the names of the indices, $d$ is called the physical bond dimension and $D$ is the virtual bond dimension.
 
 Following the [[Graphical Notation Tensor Networks|graphical notation]] for tensor networks, the state can be written equivalently as
-![[mps.svg]]
+![[mps.excalidraw]]
 Due to their one-dimensional structure, they are numerically efficient to contract.
 
 # Links
