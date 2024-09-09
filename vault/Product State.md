@@ -1,4 +1,4 @@
-#physics #many-body
+#physics #many-body #refs-needed 
 
 A product state is a state that can be written as a tensor product 
 $$\ket{\psi}=\ket{\psi_1}\otimes\ket{\psi_2}\dots \otimes \ket{\psi_N}$$
