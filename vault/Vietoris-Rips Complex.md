@@ -21,4 +21,4 @@ TODO: Write some comment about this
 - 
 
 # References
-- Coverage in sensor networks via persistent homology, [10.2140/agt.2007.7.339](http://dx.doi.org/10.2140/agt.2007.7.339)
+- TODO
