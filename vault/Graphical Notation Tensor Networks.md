@@ -1,6 +1,6 @@
 #tensornetworks
 
-The graphical notation in tensor networks is a way to represent (possibly high-dimennsional) tensors and their contractions.
+The graphical notation in tensor networks is a way to represent (possibly high-dimensional) tensors and their contractions.
 A tensor of rank $d$ is given by a bubble and $d$ legs. Connected legs are contracted (i.e. matrix multiplication along that axis)
 
 # Example
